@@ -6,9 +6,10 @@ external/android-libs
 obj
 jni/libs
 bin
-# libs
 gen
 *.zip
 .d
 jni/libs*
 TAGS
+*.iml
+build/
