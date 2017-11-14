@@ -6,7 +6,7 @@ external/android-libs
 obj
 jni/libs
 bin
-libs
+# libs
 gen
 *.zip
 .d

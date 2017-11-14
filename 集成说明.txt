@@ -1,0 +1,11 @@
+https://github.com/sqlcipher/android-database-sqlcipher
+
+1) 没有改变原仓库的工程结构
+2) 添加 build.gradle 文件
+
+
+
+调试开关:
+adb shell setprop log.tag.Database VERBOSE
+adb shell setprop log.tag.SQLiteLockTime VERBOSE
+adb shell setprop log.tag.SQLiteLockStackTrace VERBOSE
